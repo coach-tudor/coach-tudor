@@ -23,6 +23,6 @@ Here are some key principles I advocate:
 ## 🤝 Let's Connect
 - Website: [leadengineercoaching.com](https://leadengineercoaching.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tmatei/)
-- Twitter/X: [@tudor_matei]
+- Twitter/X: [@tudor_matei](https://x.com/tudor_matei)
 
 Whether you're a software engineer looking to step into leadership or an engineering manager aiming to uplevel your skills, I'm here to support your journey. Let's unlock your leadership potential together!
